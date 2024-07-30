@@ -1,0 +1,1 @@
+{"name": "str:rand", "age": "int:rand(0,100)"}
